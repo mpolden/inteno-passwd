@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-Simple scrip_addrt for retrieving the admin password on Inteno routers.
+Simple script for retrieving the admin password on Inteno routers.
 Tested on FG101R2.
 
 Equivalent bash oneliner:
