@@ -3,4 +3,4 @@ routers and modems.
 
 Usage
 =====
-python inteno-passwd.py <router-ip-address>
+    python inteno-passwd.py <router-ip-address>
